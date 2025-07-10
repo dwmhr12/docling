@@ -1,0 +1,8 @@
+{"filename": "halaman_10.json", "label": "section_header", "bbox": {"l": 23.112, "t": 711.187, "r": 456.136, "b": 677.019, "coord_origin": "BOTTOMLEFT"}, "charspan": [0, 29], "text": "ANALISIS INTERNAL & EKSTERNAL"}
+{"filename": "halaman_10.json", "label": "text", "bbox": {"l": 22.776, "t": 582.627, "r": 46.746, "b": 576.384, "coord_origin": "BOTTOMLEFT"}, "charspan": [0, 9], "text": "Political"}
+{"filename": "halaman_10.json", "label": "text", "bbox": {"l": 88.128, "t": 483.987, "r": 118.703, "b": 477.74399999999997, "coord_origin": "BOTTOMLEFT"}, "charspan": [0, 8], "text": "Economic"}
+{"filename": "halaman_10.json", "label": "text", "bbox": {"l": 138.22, "t": 417.523, "r": 159.607, "b": 378.814, "coord_origin": "BOTTOMLEFT"}, "charspan": [0, 8], "text": "S Social"}
+{"filename": "halaman_10.json", "label": "text", "bbox": {"l": 20.712, "t": 321.443, "r": 51.708, "b": 284.989, "coord_origin": "BOTTOMLEFT"}, "charspan": [0, 15], "text": "T Technological"}
+{"filename": "halaman_10.json", "label": "text", "bbox": {"l": 87.144, "t": 227.97500000000002, "r": 119.219, "b": 191.55899999999997, "coord_origin": "BOTTOMLEFT"}, "charspan": [0, 15], "text": "E Environmental"}
+{"filename": "halaman_10.json", "label": "text", "bbox": {"l": 138.46, "t": 100.779, "r": 155.365, "b": 94.53600000000006, "coord_origin": "BOTTOMLEFT"}, "charspan": [0, 5], "text": "Legal"}
+{"filename": "halaman_10.json", "label": "text", "bbox": {"l": 414.58, "t": 662.116, "r": 527.022, "b": 644.944, "coord_origin": "BOTTOMLEFT"}, "charspan": [0, 15], "text": "PESTEL ANALYSIS"}

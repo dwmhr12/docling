@@ -1,0 +1,17 @@
+PLTS Atap yang terhubung jaringan tenaga listrik pemegang IUPTLU
+
+PLN ditugaskan untuk membangun aplikasi penggunaan Sistem PLTS Atap berbasis digital yang terintegrasi dengan sistem Supervisory Control and Data Acquisition (SCADA) atau smart grid distribusi yang bertujuan untuk menjaga kestabilan dan keandalan sistem ketenagalistrikan, menjaga efisiensi penyaluran energi listrik, monitoring produksi energi Sistem PLTS Atap secara waktu nyata
+
+Penyediaan Stasiun Pengisian Energi Listrik (SPEL) dan Alat Penyalur Daya Listrik (APDAL)
+
+Penugasan yang diberikan pemerintah kepada PLN adalah untuk melaksanakan penyediaan Stasiun Pengisian Energi Listrik (SPEL) Dan Alat Penyalur Daya Listrik (APDAL). SPEL adalah pembangkit tenaga listrik yang memanfaatkan Sumber Energi Terbarukan setempat sebagai sarana pengisian energi listrik untuk alat penyalur daya listrik. APDAL adalah peranti penyaluran daya listrik berbasis baterai yang dapat diisi ulang pada SPEL. Penyediaan SPEL, Paket APDAL, dan Cadangan APDAL diperuntukkan bagi masyarakat yang berada di daerah sulit dijangkau dengan jaringan tenaga listrik.
+
+Penyediaan Pasokan Gas
+
+Pemerintah menugaskan PLN untuk memanfaatkan gas bumi untuk pembangkit tenaga listrik melalui Permen ESDM Nomor 45 Tahun 2017 serta perubahannya Permen ESDM Nomor 10 Tahun 2020. Penugasan ini dimaksudkan untuk meningkatkan pemanfaatan gas bumi dalam bauran energi untuk pembangkit tenaga listrik dan menjamin ketersediaan pasokan gas bumi dengan harga yang wajar dan kompetitif.
+
+Pembangunan Infrastruktur
+
+Ketenagalistrikan (PIK)
+
+PT PLN (Persero) untuk menyelenggarakan PIK' . PIK (Pembangunan infrastruktur Ketenagalistrikan) adalah kegiatan perencanaan, pengadaan, dan pelaksanaan dalam rangka penyediaan Infrastruktur Ketenagalistrikan. PIK dilaksanakan sesuai dengan Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) yang ditetapkan. Pembangunan pembangkit 35.000 MW dan jaringan transmisi sepanjang 46.000 km dengan mengutamakan penggunaan energi baru dan terbarukan dalam rangka mendukung upaya penurunan emisi gas rumah kaca termasuk dalam pembangunan infrastruktur ketenagalistrikan.

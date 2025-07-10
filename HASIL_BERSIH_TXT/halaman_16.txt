@@ -1,0 +1,37 @@
+PLN memandang perlu untuk menetapakan respon dari setiap risiko yang muncul pada proses bisnis PLN.  Oleh  karena  itu,  perlu  disusun  strategi  risiko  yang  yang  tetap  mempertimbangkan  4  sasaran sustainability , yaitu electricity sustainability , environmental sustainability , financial sustainability, dan fiscal sustainability. Penyusunan strategi risiko di awali dengan penyusunan Risk Appetite Statement (RAS).
+
+PLN  telah  menyelaraskan  postur Risk  Appetite  Statement  (RAS) dengan  postur Risk  Appetite Statement (RAS) Kementerian BUMN serta 4 Pilar Utama dalam peta jalan BUMN 2024-2028 . RAS PLN dinyatakan ke dalam 7 aspek yang menggambarkan lini bisnis dan fungsi yang ada di PLN.
+
+Postur Risk Appetite
+
+Penetapan strategi risiko RJP 2024 -2028 disusun dengan menggunakan pendekatan Altman ZScore . Dengan membandingkan data historikal risk appetite dan risk capacity , PLN mampu mengelola risiko sebesar kurang lebih 30% dari kapasitas risikonya pada RJP 2024-2
+
+Kapasitas Risiko ( Risk Capacity )
+
+Kapasitas risiko adalah maksimum nilai Risiko yang dapat ditanggung perusahaan berdasarkan ketersediaan modal, kemampuan pendanaan, likuiditas, atau kemampuan keuangan lainnya sesuai dengan ketentuan yang berlaku.
+
+Selera Risiko (Risk Appetite)
+
+Selera risiko adalah tingkat risiko yang dapat diterima/diambil PLN dalam mencapai sasarannya. Perhitungan selera risiko menggunakan pendekatan data historis nilai eksposur risiko residual dan proyeksi dibandingkan dengan angka kapasitas risiko.
+
+Toleransi Risiko (Risk Tolerance)
+
+Toleransi risiko adalah tingkat risiko yang bersedia diambil dengan nilai risiko yang dapat ditoleransi dari nilai selera risiko.
+
+BatasanRisiko (Risk Limit)
+
+Batasan risiko adalah nilai batasan risiko yang akan didistribusikan dan menjadi acuan bagi unit pemilik risiko. Perhitungan batasan risiko didasarkan pada hasil perhitungan 14,10% dari kapasitas risiko dikurangi rata-rata bawah standar deviasi yang didapatkan dari data historis pencapaian target RJP vs realisasi.
+
+STRATEGI
+
+Risk Capae
+
+Risk Tolera
+
+Risk A
+
+(41,8
+
+Risk
+
+(18,=
